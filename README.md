@@ -1,4 +1,5 @@
-### 📄 Presentación del proyecto [📂 Ver presentación en Google Drive](https://docs.google.com/document/d/18vUTro5xtIRiF_IcdjO7v2bznBYRF6DLGNsHZgV4cC4/edit?usp=sharing)
+### 📄 Presentación del proyecto - Movil 📱 [📂 Ver presentación en Google Drive](https://docs.google.com/document/d/18vUTro5xtIRiF_IcdjO7v2bznBYRF6DLGNsHZgV4cC4/edit?usp=sharing)
+### 📄 Presentación del proyecto - Web 🛍️ [📂 Ver presentación en Google Drive](https://docs.google.com/document/d/1q6TZyCuTYKILoUcFNR_0_dcI8NxfvsNRRzU2FIbEa-A/edit?usp=sharing)
 
 
 # 📱 App Móvil de Gestión Interna para Emprendimiento Personal
@@ -79,7 +80,7 @@ Este proyecto corresponde a una **aplicación móvil Android** desarrollada para
 
 ## 🎨 Prototipos y diseño visual
 
-[🔗 Figma – Interfaz móvil](https://www.figma.com/design/AbqPECEezeyW8UD9lFEL7M/Sin-t%C3%ADtulo?node-id=74-199&t=4Fg86E0llpekBGWu-1)
+[🔗 Figma – Interfaz móvil](https://www.figma.com/design/FxERwK9Gtcta0wfh0eEVrK/Trabajo-Pr%C3%A1ctico-Final---DGD?node-id=1-4973&t=YZqz93cKnT1d67Vm-1)
 
 ---
 
