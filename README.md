@@ -31,7 +31,8 @@ Este proyecto corresponde a una **aplicación móvil Android** desarrollada para
 | **Auditoría**      | Registro de acciones realizadas por usuarios sobre entidades del sistema. Visible solo para administradores. |
 
 
-📌 Diagrama de clases incluido en `/docs/diagramas/DiagramaDeClases_App.jpg`
+#### Diagrama de Clases
+![Diagrama de Clases](docs/diagramas/DiagramaDeClases.jpg)
 
 ---
 
@@ -42,7 +43,8 @@ Este proyecto corresponde a una **aplicación móvil Android** desarrollada para
 | **Administrador** | Accede a todas las funciones: productos, pedidos, usuarios y consultas. |
 | **Empleado**      | Visualiza y actualiza pedidos, responde consultas, gestiona productos. |
 
-📌 Diagrama de casos de uso incluido en `/docs/diagramas/CasosDeUso_App.jpg`
+#### Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](docs/diagramas/CasosDeUso.jpg)
 
 ---
 
