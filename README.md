@@ -3,7 +3,8 @@
 
 # 📱 App Móvil de Gestión Interna para Emprendimiento Personal
 
-Este proyecto corresponde a una **aplicación móvil Android** desarrollada para complementar la plataforma web de ventas. Está orientada a los **usuarios internos del negocio** (empleados y administradores), permitiendo gestionar productos, pedidos, usuarios y consultas desde el celular, sin depender de una computadora. La app se conecta a la misma API REST utilizada por el sistema web, respetando roles y permisos.
+Este proyecto corresponde a una **aplicación móvil Android** desarrollada para complementar la [plataforma web de ventas](https://github.com/GreenRiver05/Proyecto_Final_Laboratorio_De_Programacion_II_2025.git
+). Está orientada a los **usuarios internos del negocio** (empleados y administradores), permitiendo gestionar productos, pedidos, usuarios y consultas desde el celular, sin depender de una computadora. La app se conecta a la misma API REST utilizada por el sistema web, respetando roles y permisos.
 
 ---
 
